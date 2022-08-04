@@ -1,0 +1,19 @@
+div {
+    text-align: center;
+}
+
+ul li{
+    padding-right: 40px;
+    list-style-type: none;
+}
+
+#profile-img {
+    border: 5px solid #565656;
+    border-radius: 50%;
+}
+
+#personal-desc {
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: justify;
+}
